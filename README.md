@@ -129,8 +129,7 @@ El dataset contiene información sobre ventas de videojuegos a nivel global, inc
 
 ## ✨ Autor
 
-Proyecto realizado con fines educativos y de práctica en análisis de datos.
+Mariela R. Palmieri
 
 ---
 
-Si necesitas una versión más técnica, orientada a portafolio o adaptada a un entregable académico, puedo ajustarla fácilmente 😊
